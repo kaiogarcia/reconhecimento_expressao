@@ -25,7 +25,7 @@ Certifique-se de ter o seguinte instalado:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/gabrielcn/RecognizeFace.git
+   git clone https://github.com/kaiogarcia/reconhecimento_expressao.git
    cd RecognizeFace
    ```
 
